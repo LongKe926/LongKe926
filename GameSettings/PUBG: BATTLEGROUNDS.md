@@ -39,8 +39,8 @@ Voice Input Mode - Disable<br>
 Voice Chat Channel - None
 ## Controls
 ### Mouse Sensitivity
-My Mouse DPI - 400
-My Mouse FPS - 500
+Mouse DPI - 400
+Mouse FPS - 500
 General Sensitivity - 47<br>
 Vertical Sensitivity Multiplier - 1.0<br>
 Aim Sensitivity - 47<br>
