@@ -47,6 +47,6 @@ Restart - R<br>
 Taunt - E<br>
 Move around - WSAD & C<br>
 ### Mouse Sensitivity<br>
-My Mouse DPI - 400<br>
-My Mouse FPS - 500<br>
+Mouse DPI - 400<br>
+Mouse FPS - 500<br>
 Mouse Sensitivity - 15
