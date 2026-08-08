@@ -89,6 +89,10 @@ Equip Frag Grenade - 5<br>
 Equip Stun Grenade - V<br>
 Equip Smoke Grenade - 4<br>
 Equip Molotov Cocktail - T<br>
+Equip C4 - I<br>
+Equip BZ Grenade - U<br>
+Equip Emergency Cover Flare - O<br>
+Equip Emergency Support Flare - P<br>
 Inspect Weapon - L<br>
 Increase Zeroing /Next Reticle Type - Ctrl + scroll up<br>
 Decrease Zeroing/Previous Reticle Type - Ctrl + scroll down<br>
@@ -102,9 +106,7 @@ Use Energy Drink - H
 Vehicle Driver's Seat - W<br>
 Move to Vehicle Seat 2 - E<br>
 Move to Vehicle Seat 3 - Q<br>
-Move to Vehicle Seat 4 - C<br>
-Pitch Up - W<br>
-Pitch Down - S
+Move to Vehicle Seat 4 - C
 ## Gameplay
 ### Interface
 Inventory Character Render - Disable<br>
