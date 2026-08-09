@@ -12,10 +12,10 @@ Universal Brightness for All Maps - Enable
 ### Advanced<br>
 Render Scale - 100<br>
 FPP Camera FOV - 90<br>
-Anti-Aliasing - Medium<br>
+Anti-Aliasing - High<br>
 Post-Processing - Very Low<br>
 Shadows - Very Low<br>
-Textures - Ultra<br>
+Textures - High<br>
 Effects - Very Low<br>
 Foliage - Very Low<br>
 View Distance - Ultra<br>
