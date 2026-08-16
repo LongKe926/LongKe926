@@ -37,14 +37,14 @@ Dlalogs Volurme - 0
 Attack - LMB & ESC<br>
 Gap Jammer - Mouse button 4 & Tab<br>
 Jump - Space<br>
-Dash - RMB<br>
+Dash - RMB & E<br>
 Crouch - Shift<br>
 Interaction - F<br>
 Activate Skill - Q<br>
 Upgrades - G<br>
 Skil 1/2/3/4 - 1/2/3/4<br>
 Restart - R<br>
-Taunt - E<br>
+Taunt - None<br>
 Move around - WSAD & C<br>
 ### Mouse Sensitivity<br>
 Mouse DPI - 400<br>
