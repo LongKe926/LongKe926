@@ -17,8 +17,9 @@ Hello, My name is Long_Ke
 | Component | Model / Details |
 |------|------|
 | CPU | Intel Core i3-12100F |
-| Graphics Card | Colorful BattleAx GTX 1660 Super | Core Clock +190MHz / Memory Clock +350MHz| Motherboard - ASUS PRIME H610M-K D4 |
-| Memory | Colorful BattleAx DDR4-3200 8GB x2 |
+| Graphics Card | Colorful BattleAx GTX 1660 Super \| Core Clock +190MHz / Memory Clock +350MHz |
+| Motherboard | ASUS PRIME H610M-K D4 |
+| Memory | Colorful BattleAx DDR4-3200 8GB x2 \| CL 15-16-16-32|
 | Storage | GIGABYTE G325E 500GB |
 | CPU Cooler | Jonsbo CR1400E |
 | Power Supply | Golden Field Smart Core 400W |
